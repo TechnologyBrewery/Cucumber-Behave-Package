@@ -50,6 +50,10 @@
                 <artifactId>habushu-maven-plugin</artifactId>
                 <version>2.14.0</version>
                 <extensions>true</extensions>
+                <configuration>
+                    <!--NB: workaround until https://github.com/TechnologyBrewery/habushu/issues/134 is fixed: -->
+                    <pypiRepoUrl>https://pypi.org</pypiRepoUrl>
+                </configuration>
             </plugin>
         </plugins>
     </build>
