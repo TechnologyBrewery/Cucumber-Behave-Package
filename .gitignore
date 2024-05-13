@@ -6,3 +6,4 @@ target/
 poetry.toml
 poetry.lock
 .DS_Store
+/.python-version
