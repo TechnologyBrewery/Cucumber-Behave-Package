@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>org.technologybrewery.kappamaki</groupId>
-    <version>1.0.2</version>
+    <version>1.0.3-SNAPSHOT</version>
 
     <artifactId>kappa-maki</artifactId>
     <packaging>habushu</packaging>
@@ -39,7 +39,7 @@
         <connection>scm:git:ssh://git@github.com/TechnologyBrewery/kappa-maki.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/TechnologyBrewery/kappa-maki.git</developerConnection>
         <url>https://github.com/TechnologyBrewery/kappa-maki/</url>
-      <tag>kappa-maki-1.0.2</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <build>
