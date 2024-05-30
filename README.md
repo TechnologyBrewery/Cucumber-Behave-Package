@@ -1,6 +1,7 @@
-[![PyPI](https://img.shields.io/pypi/v/kappa-maki)](https://pypi.org/project/kappa-maki/)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/kappa-maki)
-![PyPI - Wheel](https://img.shields.io/pypi/wheel/kappa-maki)
+[![PyPI](https://img.shields.io/pypi/v/kappa-maki?logo=python&logoColor=gold)](https://pypi.org/project/kappa-maki/)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/kappa-maki?logo=python&logoColor=gold)
+![PyPI - Wheel](https://img.shields.io/pypi/wheel/kappa-maki?logo=python&logoColor=gold)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/kappa-maki?color=blue&label=Installs&logo=pypi&logoColor=gold)](https://pypi.org/project/kappa-maki/)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/mit)
 
 Forked from and inspired by the [behave-cucumber-formatter](https://github.com/BluThaitanium/Cucumber-Behave-Package/tree/main) plugin.
